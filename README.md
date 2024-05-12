@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 🌱 I’m currently learning **Front-end Development|React.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 📫 How to reach me **abenezer113@gmail.com**
 
