@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
-            src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"
+            src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"
             alt="golang" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
