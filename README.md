@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abenezer54&label=Profile%20views&color=0e75b6&style=flat"
         alt="abenezer54" " /> </p>
 
-- 🔭 I’m currently working on **Competitive Programming**
+- 🔭 I’m currently working as **Backend Developer Intern at a2SV.**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I enjoy problem solving and competitive programming.
 
 - 📫 How to reach me **abenezer113@gmail.com**
 
