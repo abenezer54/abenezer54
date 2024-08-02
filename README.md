@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abenezer54&label=Profile%20views&color=0e75b6&style=flat"
         alt="abenezer54" " /> </p>
 
-- 🔭 I’m currently working as **Backend Developer Intern at a2SV.**
+- 🔭 I’m currently working as **Backend Developer Intern at A2SV.**
 
 - 🌱 I enjoy problem solving and competitive programming.
 
