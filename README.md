@@ -10,7 +10,22 @@
     <strong>💻 Skills:</strong> Expertise in backend development and proficient in Golang. I excel in designing scalable systems and solving complex problems.
 </p>
 <p align="left">
-    <strong>🌟 Passionate About:</strong> Problem-solving and competitive programming. I thrive on tackling intricate challenges and delivering efficient solutions.
+   <strong>🌟 Passionate About:</strong> Problem-solving and competitive programming. I thrive on tackling intricate challenges and delivering efficient solutions.
+
+<p>Check out my coding profiles:</p>
+<p>
+    <a href="https://leetcode.com/your-leetcode-username" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+        abenezer54
+    </a>
+    </br>
+    <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="Codeforces" width="110" height="32"/>
+        abenezer_m54
+    </a>
+</p>
+
+
 </p>
 <p align="left">
     <strong>📫 Contact Me:</strong> For professional inquiries, collaborations, or to connect, please reach out via <a href="mailto:abenezer113@gmail.com">email</a>.
