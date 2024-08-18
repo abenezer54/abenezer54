@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Abenezer Mulugeta</h1>
 <h3 align="center">🚀 Software Engineering Student at AASTU, Ethiopia | Backend Developer Intern at A2SV</h3>
-<p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=abenezer54&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="center">
+<p align="left">
     <strong>🔧 Current Role:</strong> Backend Developer Intern at A2SV, where I specialize in backend development with a strong focus on Golang and real-world applications.
 </p>
-<p align="center">
+<p align="left">
     <strong>💻 Skills:</strong> Expertise in backend development and proficient in Golang. I excel in designing scalable systems and solving complex problems.
 </p>
-<p align="center">
+<p align="left">
     <strong>🌟 Passionate About:</strong> Problem-solving and competitive programming. I thrive on tackling intricate challenges and delivering efficient solutions.
 </p>
-<p align="center">
+<p align="left">
     <strong>📫 Contact Me:</strong> For professional inquiries, collaborations, or to connect, please reach out via <a href="mailto:abenezer113@gmail.com">email</a>.
 </p>
 
