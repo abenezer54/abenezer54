@@ -14,12 +14,12 @@
 
 <p>Check out my coding profiles:</p>
 <p>
-    <a href="https://leetcode.com/your-leetcode-username" target="_blank" rel="noreferrer">
+    <a href="https://leetcode.com/abenezer54" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
         abenezer54
     </a>
     </br>
-    <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank" rel="noreferrer">
+    <a href="https://codeforces.com/profile/abenezer_m54" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="Codeforces" width="110" height="32"/>
         abenezer_m54
     </a>
