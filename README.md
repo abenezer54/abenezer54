@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abenezer Mulugeta</h1>
-<h3 align="center"> Software Engineer| Competitive Programming Trainer</h3>
+<h3 align="center"> Software Engineer | Competitive Programming Trainer</h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=abenezer54&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
