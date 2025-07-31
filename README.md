@@ -5,14 +5,11 @@
 </div>
 
 ---
+## 🌟 About Me
 
-## 🌟 A Little About Me
+I am a software engineer specializing in building high-performance, scalable applications from concept to deployment. My passion lies in architecting robust backend systems and crafting intuitive, user-centric frontends with technologies like React.
 
-I'm a passionate software engineer who loves turning ideas into real-world software. Whether it’s building scalable backend systems, crafting beautiful frontends with React, or helping students conquer algorithms — I’m all in.
-
-Right now, I’m working as a **Software Developer & Competitive Programming Trainer at A2SV**, mentoring future engineers while also solving fun challenges myself.
-
-When I’m not coding, I’m usually solving problems on Codeforces, learning something new in web dev, or explaining binary search for the hundredth time 😄
+In my current role as a Software Developer at A2SV, I build production-level software and mentor junior engineers, helping them develop advanced software development skills. I am driven by the challenge of solving complex problems and am always exploring new technologies to build more efficient and impactful software.
 
 ---
 
