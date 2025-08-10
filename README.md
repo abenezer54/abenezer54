@@ -31,15 +31,6 @@ In my current role as a Software Developer at A2SV, I build production-level sof
 
 ---
 
-## 💼 What I'm Up To
-
-- 🧑‍🏫 **Training 150+ students** in backend development and DSA at A2SV
-- 🛠️ Building scalable APIs with **Go, PostgreSQL**, and **Clean Architecture**
-- 📈 Improving performance → reduced DB latency by 40% at Eskalate
-- 🔍 Exploring React + Next.js to build smooth frontend experiences
-
----
-
 ## 🏆 Competitive Programming
 
 <p align="left">
